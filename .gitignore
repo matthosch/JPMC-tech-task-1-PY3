@@ -1,0 +1,8 @@
+.python-version
+.DS_Store
+__pycache__
+.pytest_cache
+.coverage
+.vscode/*
+!.vscode/tasks.json
+coverage.xml
